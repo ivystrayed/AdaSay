@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("Hello World!")
+cowsay.cow("(\(\ \n (o.o) \n c_(\")(\")")
